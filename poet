@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>day2</title>
+    <style>
+        .poet-bg {
+            background: url("2.jpg") no-repeat;
+            display: block;
+            position: absolute;
+            width: 500px;
+            height: 300px;
+            left: 50%;
+            top: 50%;
+            margin:-150px 0 0 -250px;
+            text-align: center;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 2px 2px 3px #aaaaaa;
+        }
+
+        .poet {
+            display: block;
+            margin-top: 70px;
+            background-color: transparent;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="poet-bg">
+        <div class="poet">
+            <h5>四月是你的谎言</h5>
+            <p>梦入宫园满熏香</p>
+            <p>梦醒犹记四月谎</p>
+            <p>此生无悔入四月</p>
+            <p>来世再做友人A</p>
+        </div>
+    </div>
+
+</body>
+</html>
